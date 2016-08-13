@@ -16,8 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-        self.navigationItem.title = @"首页=====详情页";
-    // Do any additional setup after loading the view.
+//        self.navigationItem.title = @"首页=====详情页";
+//    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
